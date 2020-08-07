@@ -53,6 +53,10 @@ padding:4% 0;
       color:lime;
 
   }
+  title{
+      color:green;
+  }
+
 .nav{
     display: flex;
     justify-content: flex-start;
@@ -87,6 +91,10 @@ background-color:yellow;
     justify-content: space-evenly;
 }
 div .important .img{
+    display:flex;
+    justify-content: space-evenly;
+}
+img{
     display:flex;
     justify-content: space-evenly;
 }
