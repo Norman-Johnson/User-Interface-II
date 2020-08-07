@@ -82,6 +82,11 @@ background-color:yellow;
     justify-content: space-evenly;
 
 }
+myprojects{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
 .lables{
     display: flex;
     justify-content: space-evenly;
