@@ -94,7 +94,7 @@ div .important .img{
     display:flex;
     justify-content: space-evenly;
 }
-img{
+.img{
     display:flex;
-    justify-content: space-evenly;
+    justify-content: ;
 }
