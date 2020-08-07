@@ -82,11 +82,11 @@ background-color:yellow;
     display: flex;
     justify-content: space-evenly;
 }
-.build .img{
+ div .builds .img{
     display:flex;
     justify-content: space-evenly;
 }
-.important .img{
+div .important .img{
     display:flex;
     justify-content: space-evenly;
 }
