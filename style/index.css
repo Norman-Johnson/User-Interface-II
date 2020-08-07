@@ -82,7 +82,7 @@ background-color:yellow;
     justify-content: space-evenly;
 
 }
-myprojects{
+.myprojects{
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
