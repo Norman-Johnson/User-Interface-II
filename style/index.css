@@ -73,16 +73,16 @@ background-color:yellow;
     color: lightskyblue;
     background-color: purple;
 }
-.me{
+.me .img{
     display:flex;
     justify-content: space-evenly;
 
 }
-.builds{
+.build .img{
     display:flex;
     justify-content: space-evenly;
 }
-.important{
+.important .img{
     display:flex;
     justify-content: space-evenly;
 }
