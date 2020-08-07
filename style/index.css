@@ -96,5 +96,5 @@ div .important .img{
 }
 .img{
     display:flex;
-    justify-content: ;
+    justify-content:space-evenly ;
 }
