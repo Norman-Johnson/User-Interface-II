@@ -75,11 +75,14 @@ background-color:yellow;
 }
 .me{
     display:flex;
+    justify-content: space-evenly;
 
 }
 .builds{
     display:flex;
+    justify-content: space-evenly;
 }
 .important{
     display:flex;
+    justify-content: space-evenly;
 }
