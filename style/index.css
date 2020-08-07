@@ -53,7 +53,33 @@ padding:4% 0;
       color:lime;
 
   }
-nav{
+.nav{
     display: flex;
     justify-content: flex-start;
+}
+.home{
+color: rgb(16, 20, 214);
+background-color:yellow;
+}
+.about{
+    color:white;
+    background-color: orangered;
+}
+.contact{
+    color: gold;
+    background-color: green;
+}
+.projects{
+    color: lightskyblue;
+    background-color: purple;
+}
+.me{
+    display:flex;
+
+}
+.builds{
+    display:flex;
+}
+.important{
+    display:flex;
 }
