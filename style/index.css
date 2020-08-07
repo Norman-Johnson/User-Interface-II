@@ -78,6 +78,10 @@ background-color:yellow;
     justify-content: space-evenly;
 
 }
+.lables{
+    display: flex;
+    justify-content: space-evenly;
+}
 .build .img{
     display:flex;
     justify-content: space-evenly;
