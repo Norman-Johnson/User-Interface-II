@@ -57,49 +57,68 @@ padding:4% 0;
       color:green;
   }
 
-.nav{
+header nav{
     display: flex;
     justify-content: flex-start;
 }
-.home{
+nav .home{
 color: rgb(16, 20, 214);
 background-color:yellow;
 }
-.about{
+nav .about{
     color:white;
     background-color: orangered;
 }
-.contact{
+.nav .contact{
     color: gold;
     background-color: green;
 }
-.projects{
+.nav .projects{
     color: lightskyblue;
     background-color: purple;
 }
-.me .img{
-    display:flex;
-    justify-content: space-evenly;
+.the-owner {
+    width:90%;
+    display: flex;
+}
+.the-owner .me {
+    align-items: center;
+    width:50%;
 
 }
-.myprojects{
-    display: flex;
+.theOwner .me img {
+    width: 85%;
+}
+.theOwner .myprojects{
+   align-items: center;
     flex-direction: column;
-    justify-content: space-evenly;
+        width: 50%;
+        margin: 0 auto;
 }
-.lables{
+/*#what-Ive-done {
+    display: flex;
+    justify-content: space-evenly;
+    width:90%;
+}*/
+.builds {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0 auto;
+    
+}
+.lables {
     display: flex;
     justify-content: space-evenly;
 }
- div .builds .img{
-    display:flex;
-    justify-content: space-evenly;
+.important {
+    display: flex;
+    justify-content: space-around;
+    padding:2%;
+    margin: 0 auto;
 }
-div .important .img{
+footer {
     display:flex;
-    justify-content: space-evenly;
-}
-.img{
-    display:flex;
-    justify-content:space-evenly ;
+    flex-direction: column;
+    align-items: center;
+    width: 90%;
 }
