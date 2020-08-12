@@ -62,63 +62,81 @@ header nav{
     justify-content: flex-start;
 }
 nav .home{
-color: rgb(16, 20, 214);
-background-color:yellow;
+color: green;
+background-color:orangered;
 }
 nav .about{
-    color:white;
+    color:green;
     background-color: orangered;
 }
 .nav .contact{
-    color: gold;
-    background-color: green;
+    color: Green;
+    background-color: orangered;
 }
 .nav .projects{
-    color: lightskyblue;
-    background-color: purple;
+    color: green;
+    background-color: orangered;
 }
-.the-owner {
-    width:90%;
+.theOwner {
+    width:100%;
     display: flex;
 }
-.the-owner .me {
+
+.theOwner .me {
     align-items: center;
     width:50%;
 
 }
-.theOwner .me img {
-    width: 85%;
-}
+
 .theOwner .myprojects{
    align-items: center;
     flex-direction: column;
         width: 50%;
         margin: 0 auto;
 }
-/*#what-Ive-done {
-    display: flex;
-    justify-content: space-evenly;
-    width:90%;
-}*/
+
 .builds {
     display: flex;
     justify-content: space-evenly;
     margin: 0 auto;
     
 }
-.lables {
-    display: flex;
-    justify-content: space-evenly;
+.builds div img {
+display:flex;
+    width: 200px;
+height: 200px;
+margin: 0 auto;
+
 }
 .important {
     display: flex;
     justify-content: space-around;
     padding:2%;
     margin: 0 auto;
+    
 }
+
+.lables {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+/*.whatIveDone .img {
+display:flex;
+justify-content: space-evenly;
+margin: 5%;
+}
+
+.whatsImportantToMe .img {
+    display:flex;
+    justify-content: space-evenly;
+    margin: 5%;
+    
+    }
+  */  
 footer {
     display:flex;
     flex-direction: column;
     align-items: center;
-    width: 90%;
+    width: 100%;
 }
